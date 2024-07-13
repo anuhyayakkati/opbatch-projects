@@ -1,5 +1,6 @@
 <html>
 	<body bgcolor="pink">
+		<img src="login.jpg">
 		<div style ="border:1px black">
 		<form>
 		<center>
